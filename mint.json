@@ -1,0 +1,9 @@
+{
+  "name": "ZonaVirtual API",
+  "navigation": [
+    {
+      "group": "Inicio",
+      "pages": ["index"]
+    }
+  ]
+}
